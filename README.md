@@ -1,4 +1,3 @@
-# Olist-analysis
 # Análise de E-commerce: Olist
 
 Análise de vendas, produtos, logística, satisfação e retenção de clientes do marketplace brasileiro Olist, usando **SQL**, **Python** e **Power BI**.
