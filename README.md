@@ -217,25 +217,25 @@ O dashboard interativo em Power BI reúne as cinco análises em quatro páginas.
 
 ### Página 1: Visão Geral
 
-![Visão Geral](dashboard/pagina1_visao_geral.jpeg)
+![Visão Geral](dahsboard/pagina1_visao_geral.jpeg)
 
 Receita, pedidos, ticket médio, nota média e % de entregas no prazo, com a evolução mensal de receita e pedidos (jan/2017 a ago/2018) e filtro por ano.
 
 ### Página 2: Produtos
 
-![Produtos](dashboard/pagina2_produtos.jpeg)
+![Produtos](dahsboard/pagina2_produtos.jpeg)
 
 Ranking das categorias por receita, com participação no total e nota média, e as 10 categorias com pior nota (mínimo de 100 pedidos).
 
 ### Página 3: Logística e Satisfação
 
-![Logística e Satisfação](dashboard/pagina3_logistica.jpeg)
+![Logística e Satisfação](dahsboard/pagina3_logistica.jpeg)
 
 Prazo médio e % de atraso por estado (estados com menos de 100 pedidos entregues não aparecem), e a nota média e o % de notas 1-2 por faixa de atraso.
 
 ### Página 4: Retenção
 
-![Retenção](dashboard/pagina4_retencao.jpeg)
+![Retenção](dahsboard/pagina4_retencao.jpeg)
 
 Taxa de recompra, distribuição de clientes por número de pedidos e taxa de recompra por entrega e por nota da primeira compra.
 
