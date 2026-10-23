@@ -211,7 +211,7 @@ olist-analysis/
 
 ## Dashboard
 
-O dashboard interativo em Power BI reúne as cinco análises em quatro páginas. Para explorar o modelo de dados, as medidas em DAX e os filtros, [baixe o arquivo olist.pbix](https://github.com/KeitaUeda8/Olist-E-commerce/raw/main/dashboard/olist.pbix) e abra no Power BI Desktop . Ao clicar em um estado, uma categoria ou uma barra, o restante da página se atualiza.
+O dashboard interativo em Power BI reúne as cinco análises em quatro páginas. Para explorar o modelo de dados, as medidas em DAX e os filtros, [baixe o arquivo olist.pbix](https://github.com/KeitaUeda8/Olist-E-commerce/raw/main/dashboard/Olist_Dashboard.pbix) e abra no Power BI Desktop . Ao clicar em um estado, uma categoria ou uma barra, o restante da página se atualiza.
 
 **Modelo de dados:** 6 tabelas relacionadas (`orders`, `order_items`, `customers`, `products`, `order_review`, `categoria_traducao`), uma tabela de calendário e uma tabela auxiliar com a primeira compra de cada cliente. As colunas e medidas seguem as mesmas regras das consultas em SQL, e os valores foram conferidos contra elas.
 
